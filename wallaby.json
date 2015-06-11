@@ -1,0 +1,9 @@
+{
+  "files": [
+    "client/javascripts/*.js"
+  ],
+
+  "tests": [
+    "tests/unit-tests/spec/*Spec.js"
+  ]
+}

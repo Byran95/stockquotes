@@ -1,0 +1,25 @@
+table{
+    width:50%;
+    border-collapse:collapse;
+}
+
+table > tr:nth-child(even){
+    background:#cccccc;
+}
+
+table > tr > td{
+    padding:2px;
+    text-align:center;
+}
+
+table > tr > td:first-child{
+    font-weight:bold;
+}
+
+.winner td:nth-child(5){
+   background:limegreen;
+}
+
+.loser td:nth-child(5){
+    background:red;
+}
