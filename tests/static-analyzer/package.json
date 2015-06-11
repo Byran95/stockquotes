@@ -8,6 +8,6 @@
         "lintroller": "~2.3.5-b"
     },
     "scripts": {
-        "test": "./run_lint.sh"
+        "test": "run_lint.bat"
     }
 }
